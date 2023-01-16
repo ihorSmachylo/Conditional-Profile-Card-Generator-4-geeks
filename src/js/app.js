@@ -20,7 +20,7 @@ import "../style/index.css";
         lastname: null,
         role: null,
         country: null,
-        city: null
+        city: null/
     }
  */
 function render(variables = {}) {
